@@ -1,0 +1,57 @@
+*{
+    font-family: 'Segoe UI', Tahoma;
+}
+
+
+section{
+    display: flex;
+    
+}
+
+#jeden{
+    width: 40%;
+    
+    
+}
+
+#dwa{
+    width: 60%;
+    text-align: right;
+}
+
+main{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    color: #0077a2;
+    text-decoration: none;
+}
+
+li a{
+    padding: 1em;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 20em;
+    padding: 1em;
+}
+
+img:hover{
+    outline: dashed 3px #e30613;
+}
+
+
+
